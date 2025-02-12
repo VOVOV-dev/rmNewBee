@@ -51,7 +51,7 @@ void Robot:: task_exe()
 
     }
 
-}
+}//asdfasdf
 
 void Robot:: undo_output()
 {
